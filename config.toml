@@ -1,0 +1,4 @@
+baseURL = "https://blog.thomasdl.fr"
+languageCode = "en-us"
+title = "TomLorenzi blog"
+theme = "ananke"

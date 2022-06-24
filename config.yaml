@@ -1,0 +1,8 @@
+baseUrl: "https://blog.thomasdl.fr"
+languageCode: "en-us"
+title: "TomLorenzi blog"
+theme: "PaperMod"
+params:
+    homeInfoParams:
+        Title: Thomas De Lorenzi
+        Content: Fullstack developper, just sharing some knowledge and ideas that could be usefull for everyone

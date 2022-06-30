@@ -3,6 +3,15 @@ languageCode: "en-us"
 title: "TomLorenzi blog"
 theme: "PaperMod"
 params:
+    defaultTheme: dark
     homeInfoParams:
-        Title: Thomas De Lorenzi
-        Content: Fullstack developper, just sharing some knowledge and ideas that could be usefull for everyone
+        Title: Blog - Thomas De Lorenzi
+        Content: "Fullstack developper, just sharing some knowledge and ideas that could be usefull for everyone"
+    
+    socialIcons:
+      - name: "github"
+        url: "https://github.com/tomLorenzi"
+      - name: "linkedin"
+        url: "https://www.linkedin.com/in/thomas-d-ab9496182/"
+      - name: "stackoverflow"
+        url: "https://stackoverflow.com/users/13140347/tomlorenzi"

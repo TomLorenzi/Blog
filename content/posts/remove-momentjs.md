@@ -31,7 +31,7 @@ The best thing for you is that you're asking this questions before you wrote you
 As a personnal recommendation I will tell you to use date-fns (https://date-fns.org/).  
 This is a way more compact lib and you can also only import the functions you need.
 
-It means that if you only want to check if you're string is matching a specifc date format you can only import your `isMatch` function like this :
+It means that if you only want to check if your string is matching a specifc date format you can only import your `isMatch` function like this :
 
 ```js
 import { isMatch } from 'date-fns'
